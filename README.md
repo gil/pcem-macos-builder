@@ -34,8 +34,8 @@ pcem17/pcem
      - [Windows 3.11](https://archive.org/details/win3_stock)
      - [Windows 95 SR2](https://archive.org/details/Win95OSR2)
      - [Windows 98 SE](https://archive.org/details/win98se_201801)
-   - You can use [Keka](https://www.keka.io/) to generate an ISO when you need to copy files into your VM.
-   - You can mount CD ROMs as .ISO files at runtime (right-click, context menu).
+- You can use [Keka](https://www.keka.io/) to generate an ISO when you need to copy files into your VM.
+- You can mount CD ROMs as .ISO files at runtime (right-click, context menu).
 - You can and should change the rendering to OpenGL (context menu) at runtime.
 - A high performance configuration is: 
   - Machine: [Socket 7] Award 430VX PCI
